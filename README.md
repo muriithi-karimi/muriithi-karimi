@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on a NaaS(No As A Service) API<br>👯I'm looking to collaborate on the front end using React and Tailwind CSS<br>🤝Looking for help with understanding Typescript<br>🌱Currently learning TypeScript<br>💬Ask me about React<br>⚡Fun Fact, I'm Self Taught<br>
+🔭I'm currently working on a NaaS(No As A Service) API<br>👯I'm looking to collaborate on front-end development projects using React and Tailwind CSS<br>🤝Looking for help with understanding TypeScript <br>🌱Currently learning TypeScript<br>💬Ask me about React<br>⚡Fun Fact, I'm self-taught <br>
 
 
 # 💻 Tech Stack:
